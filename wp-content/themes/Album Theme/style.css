@@ -56,4 +56,5 @@ Albums is distributed under the terms of the GNU GPL
 
 .archive-album img{
     height: 300px;
+    background-color: transparent;
 }
