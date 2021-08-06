@@ -19,7 +19,7 @@ Albums is distributed under the terms of the GNU GPL
     padding: 10px 20px;
     display: flex;
     flex-wrap: wrap;
-}
+}x
 .single-album a{
     width: 31%;
     margin: 10px;
@@ -56,5 +56,4 @@ Albums is distributed under the terms of the GNU GPL
 
 .archive-album img{
     height: 300px;
-    background-color: transparent;
 }
